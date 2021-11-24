@@ -123,6 +123,7 @@
  19. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50mV, 10 kilo ohmios de escala completa entre la derivación para realizar la medición.
    (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
 aplicación de medición de 50 A?
+
 ![image](https://user-images.githubusercontent.com/93794279/143323035-35576ab2-7f87-46fb-90d7-1380f638f50d.png)
 
  *SECCIÓN 6–8 Potencia en circuitos en paralelo*
@@ -144,6 +145,7 @@ aplicación de medición de 50 A?
 ![image](https://user-images.githubusercontent.com/93794279/143323179-eafc131a-ef2b-45ca-a5c4-ec0864427e22.png)
 
  24. ¿Qué está mal con el circuito de la figura?
+
 ![image](https://user-images.githubusercontent.com/93794279/143323222-ac04acf7-b2cc-4d50-b299-69ffd02ba4ec.png)
 ![image](https://user-images.githubusercontent.com/93794279/143323204-848c950b-5f3c-4b7b-b3fa-6f83252755b7.png)
 
