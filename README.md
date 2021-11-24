@@ -47,6 +47,7 @@
 4. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura para cada posición del interruptor?
 
 ![image](https://user-images.githubusercontent.com/93794279/143322041-67a806a1-6d94-4f05-9d40-8713c0f3ec40.png)
+
 ![image](https://user-images.githubusercontent.com/93794279/143322093-39eecd7a-e5d9-4b0f-9bca-6f56bc7f5046.png)
 
 *SECCIÓN 6–3 Ley de las corrientes de Kirchhoff*
