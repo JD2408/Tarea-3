@@ -14,9 +14,11 @@
   ## 2. MARCO TEÓRICO
  
 ***Capitulo 5***
+![Untitled Workspace (2)](https://user-images.githubusercontent.com/94129932/143504295-fa52e587-6165-4127-83a7-71f7c3d9c16d.png)
 
 ***Capitulo 6***
 
+![Untitled Workspace (2)](https://user-images.githubusercontent.com/94129932/143504302-10a0f62e-236e-44cf-a838-65aea14ca2cb.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
