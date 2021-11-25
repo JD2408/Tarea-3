@@ -14,8 +14,8 @@
   ## 2. MARCO TEÓRICO
  
 ***Capitulo 5***
+![Circuitos-serie](https://user-images.githubusercontent.com/94129932/143504394-6102300c-a96c-41d0-b1b1-294de2d02d48.png)
 
-![Untitled Workspace](https://user-images.githubusercontent.com/94129932/143504334-39533d66-f226-4597-bd3d-21e20cdb26de.png)
 
 ***Capitulo 6***
 
