@@ -14,7 +14,8 @@
   ## 2. MARCO TEÓRICO
  
 ***Capitulo 5***
-![Untitled Workspace (2)](https://user-images.githubusercontent.com/94129932/143504295-fa52e587-6165-4127-83a7-71f7c3d9c16d.png)
+
+![Untitled Workspace](https://user-images.githubusercontent.com/94129932/143504334-39533d66-f226-4597-bd3d-21e20cdb26de.png)
 
 ***Capitulo 6***
 
