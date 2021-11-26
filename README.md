@@ -30,6 +30,78 @@
 ### CAPÍTULO 5
 
 *SECCIÓN 5–1*
+1.Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
+
+![1](https://user-images.githubusercontent.com/93800511/143363462-1c18d7e1-47eb-44dc-90fb-a5871726c5de.png)
+
+2.Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para
+poner todos los resistores en serie.
+
+![1](https://user-images.githubusercontent.com/93800511/143364988-6fa02601-80b4-492b-a619-6e6bd7e68cbc.png)
+
+3.En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores
+en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la
+cara posterior.
+
+![1](https://user-images.githubusercontent.com/93800511/143364804-d7e8ab6c-fe3d-4057-ab88-b0a1a536bcd8.png)
+
+4.La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro
+localizado en el circuito?
+
+![1](https://user-images.githubusercontent.com/93800511/143508482-490379e8-7430-4aa7-bf4c-bdea3d47d892.png)
+
+El miliamperímetro lee 50 mA entre C y D, y 50 mA entre E y F.
+
+5.Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
+de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
+control. Trace el diagrama esquemático.
+
+![1](https://user-images.githubusercontent.com/93800511/143509093-5fb97f0d-b273-43a6-bfd9-662960dc70e9.png)
+
+6.Encuentre la resistencia total de los siguientes grupos de resistores en serie:
+
+(a)= 560Ohm y 1000Ohhm:  Sumatoria= 1560Ohm 
+
+(b)= 47Ohm y 56Ohm: Sumatoria= 1030Ohm 
+
+(c)= 1.5kOhm y 2.2kOhm y 10kOhm: Sumatoria= 47KOhm 
+
+(d)= 1.0MOhm y 470Ohm y 1.0kOhm y 2.2mOhm: Sumatoria= 1.23MOhm
+
+
+7.¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?
+
+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k= 67kOhm
+
+8.Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?
+
+![2](https://user-images.githubusercontent.com/93800511/143510476-1536b0a2-cc0f-4a00-9515-ea8e33777d0d.png)
+
+<img src="https://latex.codecogs.com/svg.image?Rt:5.6K\Omega&space;&plus;1.0K\Omega&space;&plus;2.2k\Omega&space;&plus;4.7k\Omega&space;&plus;R5=17.4\Omega&space;" title="Rt:5.6K\Omega +1.0K\Omega +2.2k\Omega +4.7k\Omega +R5=17.4\Omega " />
+
+<img src="https://latex.codecogs.com/svg.image?R5=6.1K\Omega&space;" title="R5=6.1K\Omega " />
+
+9.En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
+
+![2](https://user-images.githubusercontent.com/93800511/143511085-3d89cddf-aa37-403b-aa68-7d770f0c0853.png)
+
+<img src="https://latex.codecogs.com/svg.image?Rt:&space;1.0K\Omega&space;&plus;5.6k\Omega&space;&plus;2.2K\Omega&space;&plus;4.7\Omega&space;&plus;10\Omega&space;&plus;12\Omega&space;&plus;1.0\Omega&space;&plus;1.0M\Omega&space;&plus;560K\Omega&space;&plus;5.6M\Omega&plus;680K\Omega&space;&plus;10M\Omega&space;=6.8KM\Omega&space;&space;" title="Rt: 1.0K\Omega +5.6k\Omega +2.2K\Omega +4.7\Omega +10\Omega +12\Omega +1.0\Omega +1.0M\Omega +560K\Omega +5.6M\Omega+680K\Omega +10M\Omega =6.8KM\Omega " />
+
+10.¿Cuál es la corriente presente en cada circuito de la figura 5-74?
+
+![2](https://user-images.githubusercontent.com/93800511/143511381-81873aed-22fc-4ee1-9f0f-a28b5b5ab138.png)
+
+(a)=<img src="https://latex.codecogs.com/svg.image?I=V/R" title="I=V/R" />
+
+<img src="https://latex.codecogs.com/svg.image?Rt=&space;2.2k\Omega&space;&plus;5.6k\Omega&space;&plus;1.0k\Omega&space;=8.8k\Omega&space;" title="Rt= 2.2k\Omega +5.6k\Omega +1.0k\Omega =8.8k\Omega " />
+
+<img src="https://latex.codecogs.com/svg.image?I=5.5V/8.8K\Omega&space;=0.00625A" title="I=5.5V/8.8K\Omega =0.00625A" />
+
+(b)=<img src="https://latex.codecogs.com/svg.image?I=V/R" title="I=V/R" />
+
+<img src="https://latex.codecogs.com/svg.image?Rt=&space;1.0M\Omega&space;&plus;2.2M\Omega&plus;&space;560k\Omega=23560000\Omega" title="Rt= 1.0M\Omega +2.2M\Omega+ 560k\Omega=23560000\Omega" />
+
+<img src="https://latex.codecogs.com/svg.image?I=&space;16V/23560000\Omega&space;=0.0000679A" title="I= 16V/23560000\Omega =0.0000679A" />
 
 ### CAPÍTULO 6
 *SECCIÓN 6–1 Resistores en paralelo*
