@@ -9,7 +9,8 @@
 
 ***Objetivo General***
 - Analizar el comportamiento de la corriente, voltaje, potencia y resitencia en circuitos serie y paralelo, para aplicar los conocimientos en diferentes leyes.
- ***Objetivos Específicos***
+
+***Objetivos Específicos***
  1. Definir y comprender lo que es un circuito serie y paralelo.
  2. Aplicar las diferentes leyes para encontrar corrientes y voltajes en circuitos complejos.
  3. Realizar ejercicios de conexión en serie y paralelo.
