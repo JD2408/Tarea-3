@@ -392,3 +392,6 @@ https://youtu.be/rOsyeTT6o4A
 1. En un circuito en serie,la intensidad de la corriente es igual antes y despues de cada resitencia sin importar su valor
 2. En un circuito paralelo, la resistencia total, es menor que el valor de la resistencia más pequeña del circuito y es una forma muy efectiva para saber si nuestros cálculos estan bien realizados.
 ## 6. BIBLIOGRAFIA
+1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
+2. Circuitos mixtos electricos calculo. (n.d.). Retrieved November 26, 2021, from https://www.areatecnologia.com/Calculo-circuitos-mixtos.htm
+
