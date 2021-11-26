@@ -104,6 +104,146 @@ control. Trace el diagrama esquemático.
 
 <img src="https://latex.codecogs.com/svg.image?I=&space;16V/23560000\Omega&space;=0.0000679A" title="I= 16V/23560000\Omega =0.0000679A" />
 
+
+11. Se conectan tres resistores de 470 Ω en serie con una fuente de 48 V.
+
+a) ¿Cuál es la corriente en el circuito?
+
+[![Imagen2.png](https://i.postimg.cc/J7T1qFb5/Imagen2.png)](https://postimg.cc/s1hdfwHM)
+
+b) ¿Cuál es el voltaje a través de cada resistor?
+
+[![Imagen3.png](https://i.postimg.cc/GprwrPFp/Imagen3.png)](https://postimg.cc/mPd6yH6x)
+
+c) ¿Cuál es el valor nominal de potencia de los resistores?
+
+[![Imagen4.png](https://i.postimg.cc/nLT5JyVd/Imagen4.png)](https://postimg.cc/CZBJC6qD)
+
+12. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+
+[![Imagen5.png](https://i.postimg.cc/CMZFcNmy/Imagen5.png)](https://postimg.cc/K42Szt6Q)
+
+[![Imagen6.png](https://i.postimg.cc/ZqDG3kkW/Imagen6.png)](https://postimg.cc/PLYVsR5H)
+
+13. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
+
+[![Imagen7.png](https://i.postimg.cc/VNyMNvvv/Imagen7.png)](https://postimg.cc/RWRqsMcx)
+
+a) ¿Cuál es la resistencia de R4?
+
+[![Imagen8.png](https://i.postimg.cc/cLG4gnRp/Imagen8.png)](https://postimg.cc/ZCjhX0DH)
+
+b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
+
+[![Imagen9.png](https://i.postimg.cc/65mbYrjP/Imagen9.png)](https://postimg.cc/gn3K0ZPy)
+
+c) Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
+
+No se fundiría.
+
+
+*SECCION 5-5:* Fuentes de voltaje en serie
+
+
+14.Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
+
+[![Imagen10.png](https://i.postimg.cc/sgKL5FFp/Imagen10.png)](https://postimg.cc/BjLNGVn6)
+
+15.  Determine el voltaje de fuente total en cada circuito de la figura 5-79.
+
+[![Imagen11.png](https://i.postimg.cc/SKJg8Jfh/Imagen11.png)](https://postimg.cc/WDcmcpyW)
+
+
+*SECCIÓN 5-6:* Ley de voltaje de kirchhoff
+
+
+16. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor? 
+
+[![Imagen12.png](https://i.postimg.cc/nz19h19c/Imagen12.png)](https://postimg.cc/sQvgn7Jt)
+
+17. En el circuito de la figura 5-81, determine la resistencia de R4
+
+[![Imagen13.png](https://i.postimg.cc/DwsrKL6m/Imagen13.png)](https://postimg.cc/21kbQqPf)
+
+18. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
+
+[![Imagen14.png](https://i.postimg.cc/Y2RtqC83/Imagen14.png)](https://postimg.cc/JtsfpmfD)
+
+[![Imagen15.png](https://i.postimg.cc/mrY0Xm5w/Imagen15.png)](https://postimg.cc/gw0SrHdX)
+
+[![Imagen16.png](https://i.postimg.cc/3Ns1HTyD/Imagen16.png)](https://postimg.cc/hQ0T9N1S)
+
+[![Imagen17.png](https://i.postimg.cc/zXNppJ19/Imagen17.png)](https://postimg.cc/QV6pdZCb)
+
+
+*SECCIÓN 5-7:* Divisores de voltaje
+
+
+19. La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Ω que forma parte de la resistencia total en serie?
+
+[![Imagen18.png](https://i.postimg.cc/CK6SHPBQ/Imagen18.png)](https://postimg.cc/06mT9CCY)
+
+20. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
+
+[![Imagen19.png](https://i.postimg.cc/26W06y4S/Imagen19.png)](https://postimg.cc/njH4SHRy)
+
+21. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
+
+[![Imagen20.png](https://i.postimg.cc/26xB2fYx/Imagen20.png)](https://postimg.cc/Q9HtdwHB)
+
+22. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+
+[![Imagen21.png](https://i.postimg.cc/Y9SpBcgR/Imagen21.png)](https://postimg.cc/1gLxDjvV)
+
+[![Imagen22.png](https://i.postimg.cc/1Rn886nH/Imagen22.png)](https://postimg.cc/Jt8rgsQD)
+
+23. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del ±1% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+
+[![Imagen23.png](https://i.postimg.cc/Ghnm9f1L/Imagen23.png)](https://postimg.cc/w3FpG0vZ)
+
+
+*SECCIÓN 5-8:* Potencia en circuitos en serie
+
+
+24. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43
+
+[![Imagen24.png](https://i.postimg.cc/NMvzRRGH/Imagen24.png)](https://postimg.cc/JyKxLDkr)
+
+25. Encuentre 𝑅𝑇 en la figura 5-89.
+
+[![Imagen25.png](https://i.postimg.cc/gJpgxd4y/Imagen25.png)](https://postimg.cc/sBnYLkk1)
+
+
+
+*SECCIÓN 5-9:* Mediciones de voltaje
+
+
+26. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+
+[![Imagen26.png](https://i.postimg.cc/Px61dk75/Imagen26.png)](https://postimg.cc/VrCJF21x)
+
+27. En la figura 5-91: determine el voltaje en cada punto con respecto a tierra.
+
+[![Imagen27.png](https://i.postimg.cc/MT4XsZ4V/Imagen27.png)](https://postimg.cc/hzLSvnKt)
+
+[![Imagen28.png](https://i.postimg.cc/7PfBtxb6/Imagen28.png)](https://postimg.cc/141cf1Gh)
+
+
+
+*SECCIÓN 5-10:* Localización de fallas 
+
+
+28. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
+
+[![Imagen29.png](https://i.postimg.cc/cJz3vNW9/Imagen29.png)](https://postimg.cc/XZwqPmpd)
+
+29. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas
+
+[![Imagen30.png](https://i.postimg.cc/pXgX5X5n/Imagen30.png)](https://postimg.cc/BXBGd3gq)
+
+30. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo
+
+[![Imagen31.png](https://i.postimg.cc/bJBd60rm/Imagen31.png)](https://postimg.cc/N9RgFH1X)
 ### CAPÍTULO 6
 *SECCIÓN 6–1 Resistores en paralelo*
  1. Muestre cómo conectar los resistores de la en paralelo entre las terminales de una batería.
