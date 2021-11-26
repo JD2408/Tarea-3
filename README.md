@@ -30,6 +30,7 @@
 ### CAPÍTULO 5
 
 *SECCIÓN 5–1*
+
 1.Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
 
 ![1](https://user-images.githubusercontent.com/93800511/143363462-1c18d7e1-47eb-44dc-90fb-a5871726c5de.png)
