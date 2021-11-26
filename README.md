@@ -8,9 +8,11 @@
 ## 1. OBJETIVOS
 
 ***Objetivo General***
-
+- Analizar el comportamiento de la corriente, voltaje, potencia y resitencia en circuitos serie y paralelo, para aplicar los conocimientos en diferentes leyes.
  ***Objetivos Específicos***
- 
+ 1. Definir y comprender lo que es un circuito serie y paralelo.
+ 2. Aplicar las diferentes leyes para encontrar corrientes y voltajes en circuitos complejos.
+ 3. Realizar ejercicios de conexión en serie y paralelo.
   ## 2. MARCO TEÓRICO
  
 ***Capitulo 5***
@@ -173,5 +175,6 @@ aplicación de medición de 50 A?
 https://youtu.be/rOsyeTT6o4A
 
 ## 5. CONCLUSIONES
-
+1. En un circuito en serie,la intensidad de la corriente es igual antes y despues de cada resitencia sin importar su valor
+2. En un circuito paralelo, la resistencia total, es menor que el valor de la resistencia más pequeña del circuito y es una forma muy efectiva para saber si nuestros cálculos estan bien realizados.
 ## 6. BIBLIOGRAFIA
